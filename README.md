@@ -14,4 +14,6 @@ cd StoryNest-Backend
 npm install
 ```
 
+```bash
 npm run dev
+```
